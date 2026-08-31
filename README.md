@@ -101,23 +101,13 @@ The embedded system was built around an **Arduino Nano**, which handled the inpu
 
 ## Showcase
 
-![Engineering Design Showcase](images/showcase.jpg)
+![Engineering Design Showcase](video/smart_inhaler_demo.mp4)
 
-The smart inhaler was presented at Western University’s **ES1050 Engineering Design Showcase** and was **recognized for innovation**.
+The smart inhaler was presented at Western University’s **ES1050 Engineering Design Showcase** and was **recognized for innovation**. The video is in slow-motion
 
 The project demonstrated the integration of:
 
 **embedded systems + C++ programming + CAD + physical prototyping + human-machine interaction**
-
----
-
-## Demo Video
-
-A short demonstration of the physical prototype is available here:
-
-[Watch the Smart Inhaler Prototype Demo](video/smart_inhaler_demo.mp4)
-
----
 
 ## Repository Structure
 
